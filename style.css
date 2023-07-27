@@ -1,0 +1,431 @@
+
+.table{
+	display: table;
+	margin: 0 auto;
+	
+}
+ nav ul{
+	margin: 0px;
+	padding: 10px;
+  
+}
+nav a{
+	display:inline-block;
+	text-decoration:none;
+	padding:20px;
+	
+
+}
+nav li{
+	list-style-type:none;
+	float:left;
+	font-size: 23px;
+	
+} 
+.div1{
+	/* background-image:url(green.png); */
+	background-color: green;
+padding: 100px;
+}
+/* .class1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+} */
+.MI{
+	width: 200px;
+	height: 100px;
+	border-radius: 20px;
+}
+.PIO{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.PIO1,.PIO2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	left: 30px;
+}
+
+.p1{
+	color: white;
+	background-color: black;
+	width: 300px;
+	height: 60px;
+	padding: 30px;
+	font-size: 36px;
+	}
+.p2{
+	color: white;
+	font-size:28px;
+	}
+	/* div2 debut */
+	.div2{
+		padding:100px;
+		/* margin: 30px; */
+	}
+ img{
+		width: 100px;
+		height: 60px;
+} 
+ button{
+	border-radius: 70%;
+		width: 300px;
+		height: 300px;
+		border-color: green;
+	} 
+.mimi{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+		}
+.mami{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}	
+.papi{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+		}
+.papa{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+		}
+.class2{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction:column ;
+		}
+.class4,.class3{
+	display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction:column ;
+}
+.mimi img,.papi img,.papa img{
+		border-radius: 100%;
+		border:2px solid #339895 ;
+		height: 100px;
+		width: 100px;
+		padding:30px;	
+	}
+	
+	p{
+		font-size: 27px;
+	}
+	/* .div2 fin */
+	/* div3 debut */
+	.div3{
+		padding: 30px;
+		background-color: #486c57;	
+	}
+	.muni{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.Momo{
+		display: inline-flex;
+		gap: 36px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+.AA{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+/* fin div3 */
+/* debut div4 */
+.di4{
+	
+}
+.img1{
+	width: 100%;
+	height: 100%;
+}
+.FA,.MA{
+	display: flex;
+	flex-direction: column;
+}
+.img2{
+	width: 100%;
+	height: 100%;
+}
+/* fin div4 */
+/* debut div5 */
+.div5{
+	/* padding: 30px; */
+	
+}
+.midi{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.mido{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+p{
+	font-size: 28px;
+	
+}
+.container{
+	width: 100%;
+	height: 30px;
+	border-radius: 30px;
+	background-color: grey;
+	
+}
+.container1{
+	width: 100%;
+	height: 30px;
+	border-radius: 30px;
+	background-color: grey;
+}
+.container2{
+	width: 100%;
+	height: 30px;
+	border-radius: 30px;
+	background-color: grey;
+	
+}
+.container3{
+	width: 100%;
+	height: 30px;
+	border-radius: 30px;
+	background-color: grey;
+	
+}
+.bar1{
+	width: 100%;
+	background-color:rgba(0, 128, 96, 0.326);
+	border-radius: 30px;
+}
+.skillset{
+	text-align: right;
+	padding-right: 5px;
+	padding-top: 12px;
+	padding-bottom: 18px;
+
+}
+.class9{
+	position: relative;
+	bottom: 70px;
+	left: 210px;
+
+}
+.SOS{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+ .bar2{
+	width: 80%;
+	background-color: rgba(0, 128, 96, 0.326);
+	border-radius: 30px;
+
+
+}
+.bar3{
+	width: 90%;
+	background-color: rgba(0, 128, 96, 0.326);
+	border-radius: 30px;
+}
+.bar4{
+	width: 70%;
+	background-color: rgba(0, 128, 96, 0.326);
+	border-radius: 30px;
+}
+.po{
+   position: relative;
+   right: 300px;
+   font-size: 39px;
+}
+span{
+position: relative;
+left: 460px;
+font-size: 33px;
+}
+/*  fin div5*/
+.section6{ 
+	background-color:rgba(131, 213, 114, 0.584);
+	padding: 80px;
+}
+
+.MON{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.MON1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.con1{
+	background-color: white;
+	width:100%;
+	height: 180px;
+	position: relative;
+	bottom: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Mami{
+	color: white;
+	font-size: 60px;
+	display: flex;
+	text-align: center;
+	justify-content:center;
+}
+.Mami1{
+	color: white;
+	font-size: 30px;
+	display: flex;
+	text-align: center;
+	justify-content:center;
+
+}
+
+.img4{
+	width: 100%;
+	height: 630px;
+	font-size: 30px;
+} 
+.p22{ 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* position:relative;
+	left: 80%; */
+}
+.div7{
+	padding: 120px;
+	background-color: white;
+}
+.poi{
+	display: inline-flex;
+	/* position: relative;
+	top: 60px; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 30px;
+}
+.img10{
+	width: 300px;
+	height: 300px;
+}
+.pois{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.div8{
+	background-color: rgba(207, 222, 204, 0.89);
+	padding: 30px;
+}
+.kia{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 60px;
+}
+.h1{
+	font-size: 60px;
+}
+.mia{
+	font-size: 38px;
+}
+.fia{
+	color: #a77898;
+	font-size: 38px;
+
+}
+
+.oz{
+	position: relative;
+	top: 30px;
+	font-size: 60px;
+
+}
+.op{
+	position: relative;
+	top: 30px;
+	font-size: 36px;
+
+}
+@media screen and (max-width:600px){
+	.nav li{
+		display:flex;
+	flex-direction: column;
+	}
+	.mami{
+		display: flex;
+		flex-direction: column;
+	}
+	.Momo{
+		display:flex ;
+		flex-direction: column;
+	}
+	.FA{
+		display:flex ;
+		flex-direction: column;
+	}
+}
+@media screen and (max-width:758px){
+	.nav li{
+		display:flex;
+	flex-direction: column;
+	}
+	.mami{
+		display: flex;
+		flex-direction: column;
+	}
+	.Momo{
+		display:flex ;
+		flex-direction: column;
+	}
+	.FA{
+		display:flex ;
+		flex-direction: column;
+	}
+}
+@media screen and (max-width:900px){
+	.nav li{
+		display:flex;
+	flex-direction: column;
+	}
+	.mami{
+		display: flex;
+		flex-direction: column;
+	}
+	.Momo{
+		display:flex ;
+		flex-direction: column;
+	}
+	.FA{
+		display:flex ;
+		flex-direction: column;
+	}
+}
